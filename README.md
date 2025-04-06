@@ -144,11 +144,3 @@ Content-Type: application/json
 - **Haversine formula** (distance calculation)
 - **Nominatim API** (OpenStreetMap geocoder)
 
----
-
-## 🌟 Author
-
-**Built by [Your Name]** for Formi's SDE assignment.
-
-Feel free to improve or customize this API further!
-
